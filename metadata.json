@@ -1,0 +1,6 @@
+{
+  "name": "Lionmax Energy Unleashed - Loot Box & Scratch Win",
+  "description": "Gamified Loot Box to Scratch Card exhibition stall promotion for Lionmax Powder Caffeinated Beverage by Softlogic Pharmaceuticals.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
